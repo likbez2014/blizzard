@@ -1,0 +1,119 @@
+td {
+    width: 600px;
+    background-color: #0c131b;
+    text-align: center;
+}
+
+td p {
+    margin-top: 41px;
+    margin-left: auto;
+    margin-bottom: 50px;
+    margin-right: auto;
+    width: 490px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+    text-align: justify;
+}
+
+h1 {
+    margin: 0;
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+h2 {
+    margin: 0;
+    display: inline-block;
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.tess {
+    font-size: 14px;
+    color: #e8a336;
+    font-family: "Arial";
+}
+
+.order {
+    font-size: 14px;
+    color: #fa5d26;
+    font-family: "Arial";
+    text-decoration: underline;
+}
+
+/* a {
+    position: relative;
+} */
+
+h3 {
+    margin: 0;
+    padding-top: 15px;
+    padding-left: 210px;
+    font-size: 24px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+    text-transform: uppercase;
+}
+
+.one_card {
+    /* margin-bottom: 20px; */
+}
+
+.one_card h1 {
+    font-size: 36px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.one_card .kit {
+    font-size: 36px;
+    color: #9f15a9;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.one_card p {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 23px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.one_card h3 {
+    margin: 0;
+    padding-top: 15px;
+    padding-left: 190px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+    text-transform: uppercase;
+}
+
+.footer_one_card p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    line-height: 22px;
+    color: #85908c;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
