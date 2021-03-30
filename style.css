@@ -62,10 +62,6 @@ h2 {
     text-decoration: underline;
 }
 
-/* a {
-    position: relative;
-} */
-
 h3 {
     margin: 0;
     padding-top: 15px;
@@ -140,5 +136,26 @@ h3 {
 }
 
 .footer {
+    width: 600px;
+    background-color: #ebd2aa;
+}
 
+.footer p {
+    text-align: center;
+}
+
+.slogan {
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.networks {
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+    font-family: "Arial";
+    text-align: center;
 }
